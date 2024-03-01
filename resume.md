@@ -3,17 +3,37 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Your Resume in Markdown
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+title: Héctor Cuevas Pérez
+description-meta: 'CV 2024-02'
 keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
+  - 'data'
+  - 'powerbi'
+  - 'sql'
+  - 'python'
 author:
-- I am the author
-subject: 'Subject'
+- Héctor Cuevas
+subject: 'CV'
 ---
 ###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+
+
+<script>
+// Get current PATH  
+var PATH = window.location.href.substring(0, window.location.href.lastIndexOf('/') + 1);
+</script>
+
+
+<span class="test-align">
+  <img class="test-img" src="" id="linkedin" width="50px" height="50px">
+  <span>Your NEW !! text here beside the image.</span>
+</span>
+
+<script>
+document.getElementById('linkedin').src = PATH + "linkedin.svg";
+</script>
+
+![](./static/linkedin.svg){ width=20 }
+![](linkedin.svg){ width=20 } and some text then
 
 ### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
 
