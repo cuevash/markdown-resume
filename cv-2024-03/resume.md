@@ -21,18 +21,24 @@ subject: 'CV'
   <p class="author">Héctor Cuevas</p>
 </header>
 
-![](../static/envelope-solid.svg){ width=20 } hector.cuevas@eternalrtn.com
+![](../static/envelope-solid.svg){ .icon-img  }hector.cuevas@eternalrtn.com
 
-![](../static/linkedin.svg){ width=20 } [https://www.linkedin.com/in/hector-cuevas-perez](https://www.linkedin.com/in/hector-cuevas-perez)
+![](../static/linkedin.svg){ .icon-img  }[https://www.linkedin.com/in/hector-cuevas-perez](https://www.linkedin.com/in/hector-cuevas-perez)
 
-![](../static/mobile-screen-button-solid.svg){ width=20 } (+34) 65 327 92 93
+![](../static/mobile-screen-button-solid.svg){ .icon-img  }(+34) 65 327 92 93
 
 
 <!-- ###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]  -->
 
-**Profesional especializada en el área de IT con una amplia experiencia en redes, comunicaciones y soporte a usuarios, además he realizado especializaciones en seguridad de la información, hacking ético y análisis de datos que me han permitido orientar mi carrera profesional hacia el ámbito de la ciberseguridad.**
-**Soy una persona muy organizada, responsable, orientada a resultados, aprendo con rapidez, me adapto fácilmente a cualquier entorno y tengo un alto nivel de compromiso e iniciativa. Estoy acostumbrada a trabajar bajo presión y en equipos multiculturales, además he trabajado en diferentes empresas a nivel nacional e internacional, lo que me ha permitido desarrollar una excelente habilidad de relación interpersonal tanto con los usuarios internos como con los externos (proveedores).**
-**Tengo la habilidad de transmitir mis conocimientos con facilidad, lo que me ha permitido capacitar a los usuarios en todos los niveles en el ámbito informático.**
+**With a strong background in software engineering i have steered my career to data analyis through the last 10 years. Where i have combined those two skills.**
+
+**With stronger focus in data analysis in the last two years.I have developed skills in all the usualtech stack required; such as R and Python languages, databases, Big query, fabric framwwork (PowerBI, Data Factory, Data warehouse), etc.**
+
+**Right know i work as independent freelancer helping to bring a data oriented work to companies. I also colobarorate with my long term parner SingularFact in bringing the game of data to departments that are not used to them.**
+
+**Attentive to details**
+
+**Good comunicator with non technical people. Explain diffucult things in simple ways**
 
 ## Skills
 
@@ -55,9 +61,19 @@ subject: 'CV'
 
 ## Experience
 
-### CEO and Founder, Pied Piper
+### Data analyst Freelancer 
 
-start-date-end-date, City, State and remote
+::: {.company-line}
+
+::: {.left}
+[By-Urbania]{ .company-project }
+:::
+
+::: {.right}
+![](../static/calendar-regular.svg){ .icon-img  }2021/May - Now ![](../static/location-dot-solid.svg){ .icon-img }Madrid, Spain 
+:::
+
+:::
 
 - Things you did/do here
 - More things that you do here.
