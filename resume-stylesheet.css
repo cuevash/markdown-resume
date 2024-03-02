@@ -1162,3 +1162,32 @@ sub {
 img {
   vertical-align: text-bottom
 }
+
+/**
+ * Hide defualt generated title. So i can add one directly.
+ */
+
+ /**
+ * Correct `block` display not defined in IE 8/9.
+ */
+
+ #title-block-header {
+  display: none;
+ }
+
+
+ #title-block-header-own {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  flex: 1;  /* This makes the title grow to fill the space, centering it */
+  text-align: center;
+}
+
+.header-img {
+  flex: 0;  /* This prevents the image from growing and keeps it on the right */
+  margin-left: auto;  /* This pushes the image to the right */
+}
