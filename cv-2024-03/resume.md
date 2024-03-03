@@ -173,6 +173,54 @@ subject: 'CV'
 - **Moved Semantic Model from SSAS to PowerBI online** 
   - Moved and improved a SSAS model into the PowerBI online. Solving connectivity issues and rearchitecting the PowerBI model. Separating the semantic model from the individuals reports. This new organization allowed a more effcient development of reports. Having a shared common semantic model and then develop individualized reports for each client of the App.
 
+### Software Engineer Senior / Technical Lead
+
+::: {.company-line}
+
+::: {.left}
+[MASMOVIL]{ .company-project }
+:::
+
+::: {.right}
+![](../static/calendar-regular.svg){ .icon-img  }2018/August - 2022/January ![](../static/location-dot-solid.svg){ .icon-img }Madrid, Spain 
+:::
+
+:::
+
+- **Particiapted in the development of CRM applications** 
+  - Work with the product manager to help bring the vision of businnes products into technical products
+  - Overview the translation of the technical requirements into current arquitecture
+  - Develop small ad hoc internal organization tools
+  - Lead in the overall design of the modules of the Apps
+  - Refactor code to reduce its complexity
+  - Help other members to focused in abstracting and improving the quality of the code
+  - Develop a module to control roles, groups and permissions on the Apps.
+
+### Technical Lead / Data oriented
+
+::: {.company-line}
+
+::: {.left}
+[SingularFact]{ .company-project }
+:::
+
+::: {.right}
+![](../static/calendar-regular.svg){ .icon-img  }2016/June - 2018/January ![](../static/location-dot-solid.svg){ .icon-img }Madrid, Spain 
+:::
+
+:::
+
+- **Design, develop and created data oriented apps/webs** 
+  - Created a data oriented web related to car sales using interactive graphics
+  
+- **Colabrorated in the develpment of GIS application** 
+  - Part of team that develop a GIS application to control the management of train infrastructre in Chile.
+
+- **Created many POC related to data Apps**
+  - Small POC to customize Qlick App.
+  - Develop POC to extract instagram data through APIs that show statistics related to traffic
+  - Develop POC to show a complex graph of dependencies between educational concepts/modules
+
 
 **Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
 
