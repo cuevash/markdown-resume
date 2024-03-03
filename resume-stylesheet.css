@@ -1,3 +1,10 @@
+/*! globals */
+
+:root {
+  --blue: #1e90ff;
+  --white: #ffffff;
+}
+
 /*! normalize.css v2.1.3 | MIT License | git.io/normalize */
 
 /* ==========================================================================
@@ -474,8 +481,10 @@ p {
 }
 
 a {
-    color: #4183c4;
-    text-decoration: none
+    /* color: #4183c4; */
+    text-decoration: none;
+    font-weight: bold;
+    color:#000
 }
 
 body {
@@ -522,7 +531,7 @@ h1 {
 h2 {
     font-size: 24px;
     border-bottom: 1px solid #ccc;
-    color: #f39
+    color: #fb4a08
 }
 
 h3 {
@@ -530,6 +539,7 @@ h3 {
     color: #333
     -webkit-margin-before: 0.01em;
     -webkit-margin-after: 0.01em;
+    color: #770006;
 }
 
 h4 {
@@ -1160,7 +1170,12 @@ sub {
    ========================================================================== */
 
 img {
-  vertical-align: text-bottom
+  vertical-align: baseline
+}
+
+.icon-img {
+  width: 10px;
+  margin-right: 5px;
 }
 
 /**
@@ -1174,7 +1189,6 @@ img {
  #title-block-header {
   display: none;
  }
-
 
  #title-block-header-own {
   display: flex;
@@ -1190,4 +1204,34 @@ img {
 .header-img {
   flex: 0;  /* This prevents the image from growing and keeps it on the right */
   margin-left: auto;  /* This pushes the image to the right */
+}
+
+ /**
+ * company-line
+ */
+
+ .company-project {
+  font-weight: bold;
+  font-style: italic;
+}
+
+ .company-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.company-line .left,
+.company-line .right {
+  display: flex;
+  align-items: center;
+}
+
+.company-line .left p,
+.company-line .right p {
+  margin: 0; /* Remove default paragraph margins */
+}
+
+.company-line .right img {
+  margin-left: 15px; /* Adds spacing before the date and location */
 }

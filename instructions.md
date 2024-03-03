@@ -1,5 +1,7 @@
 # INSTRUCTIONS
 
+General instructions , need to be modified slightly to update paths when running in the child cvs folders-
+
 ### Run this to generate HTML
 
 pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o resume.html
