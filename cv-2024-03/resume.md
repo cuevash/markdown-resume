@@ -70,13 +70,109 @@ subject: 'CV'
 :::
 
 ::: {.right}
-![](../static/calendar-regular.svg){ .icon-img  }2021/May - Now ![](../static/location-dot-solid.svg){ .icon-img }Madrid, Spain 
+![](../static/calendar-regular.svg){ .icon-img  }2023/May - Ongoing ![](../static/location-dot-solid.svg){ .icon-img }Madrid, Spain 
 :::
 
 :::
 
-- Things you did/do here
-- More things that you do here.
+- **Improved Modelization for Treasury/SAP Application:** 
+  - Conducted significant refactoring and resolved numerous non-standard issues to align with best data warehousing practices.
+
+- **Enhanced Data Calculations and Visuals:** 
+  - Implemented complex calculations and developed advanced visuals to accurately represent various types of credits managed by the company.
+
+- **Enterprise Data Organization:** 
+  - Strategically organized data models into distinct layers for improved clarity and maintenance.
+  - Established a version control system and delineated deployment stages (development, staging, production) to enhance code management and deployment processes.
+
+- **Architecture Design for Access Permissions:** 
+  - Devised an architecture framework to manage access permissions effectively, categorizing by Departments, Persons, and Roles to ensure data security and compliance.
+
+
+::: {.company-line}
+
+::: {.left}
+[QLM]{ .company-project }
+:::
+
+::: {.right}
+![](../static/calendar-regular.svg){ .icon-img  }2023/August - 2024/January ![](../static/location-dot-solid.svg){ .icon-img }Madrid, Spain 
+:::
+
+:::
+
+- **Created a daily Dashboard (Stock Related)** 
+  - Created PowerBI APP, report and dataflow that captured and modelled data from KAT_Treasury DB (Based upon SAP) and daily excel files to show finncial daily calculations.
+  - Prepared a Power Automate flow to allow the users to refresh all dependencies at anytime from the PowerBI APP
+  - Create a POC to create an daily scheduled Power Automate flow that would create a Paginated Report and export all the information to an excel files for future records reference.
+
+
+
+
+::: {.company-line}
+
+::: {.left}
+[Assistant Professor UC3M (Univeristy Carlos III de Madrid)]{ .company-project }
+:::
+
+::: {.right}
+![](../static/calendar-regular.svg){ .icon-img  }2022/January - 2023/July ![](../static/location-dot-solid.svg){ .icon-img }Madrid, Spain 
+:::
+
+:::
+
+- **Imparted a Advanced knowledge of Spreadsheets course:** 
+  - Prepared and imparted an university course. Marking a final prokect and preapring and marking a final exam.
+
+
+::: {.company-line}
+
+::: {.left}
+[Tetra Pak]{ .company-project }
+:::
+
+::: {.right}
+![](../static/calendar-regular.svg){ .icon-img  }2022/January - 2023/July ![](../static/location-dot-solid.svg){ .icon-img }Madrid, Spain 
+:::
+
+:::
+
+- **Imparted a PowerBI course:** 
+  - Prepared and imparted a PowerBI 40Hours course. Including basic arquitecture, security, role access, DAX introduction and more.
+
+::: {.company-line}
+
+::: {.left}
+[QLM]{ .company-project }
+:::
+
+::: {.right}
+![](../static/calendar-regular.svg){ .icon-img  }2022/March - 2024/September ![](../static/location-dot-solid.svg){ .icon-img }Madrid, Spain 
+:::
+
+:::
+
+- **Refactoring Sematinc Model for a SAP based APP** 
+  - Analizing and continuing improving of a semantic model of a the Kat Treasury dashboard (SAP based App). Pushing changes to achieve best DW modeling practices.
+  - Created several new measures to handle complex calculations for financial analysis.
+  - Consulting for improvements to the visual aspect of the dashboard.
+
+
+::: {.company-line}
+
+::: {.left}
+[QLM]{ .company-project }
+:::
+
+::: {.right}
+![](../static/calendar-regular.svg){ .icon-img  }2022/March - 2024/September ![](../static/location-dot-solid.svg){ .icon-img }Madrid, Spain 
+:::
+
+:::
+
+- **Moved Semantic Model from SSAS to PowerBI online** 
+  - Moved and improved a SSAS model into the PowerBI online. Solving connectivity issues and rearchitecting the PowerBI model. Separating the semantic model from the individuals reports. This new organization allowed a more effcient development of reports. Having a shared common semantic model and then develop individualized reports for each client of the App.
+
 
 **Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
 
