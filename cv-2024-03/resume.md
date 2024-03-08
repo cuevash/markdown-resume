@@ -213,14 +213,13 @@ subject: 'CV'
 - **Design, develop and created data oriented apps/webs** 
   - Created a data oriented web related to car sales using interactive graphics
   
-- **Colabrorated in the develpment of GIS application** 
+- **Colaborated in the development of GIS application** 
   - Part of team that develop a GIS application to control the management of train infrastructre in Chile.
 
 - **Created many POC related to data Apps**
   - Small POC to customize Qlick App.
   - Develop POC to extract instagram data through APIs that show statistics related to traffic
   - Develop POC to show a complex graph of dependencies between educational concepts/modules
-
 
 **Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
 
